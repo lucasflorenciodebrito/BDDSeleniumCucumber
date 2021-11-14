@@ -1,2 +1,8 @@
 # BDDSeleniumCucumber
-Studying BDD with Selenium anda Cucumber. Languague: Java
+Studying BDD with Selenium and Cucumber. 
+
+## Tecnologias Utilizadas
+- Selenium
+- Cucumber
+- Java
+- Maven
